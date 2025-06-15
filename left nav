@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Navigation</title>
+</head>
+<body>
+    <h3>Navigation</h3>
+    <ul>
+        <li><a href="right_home.html" target="content">Team Home</a></li>
+        <li><a href="page1.html" target="content">Page 1 - Kai Lannon</a></li>
+        <li><a href="page2.html" target="content">Page 2 - Luke Geiger</a></li>
+        <li><a href="page3.html" target="content">Page 3 - Andrew Sobczak</a></li>
+        <li><a href="page4.html" target="content">Page 4 - Tayseer Wahbeh</a></li>
+        <li><a href="page5.html" target="content">Page 5 - Charlie Kauffman</a></li>
+    </ul>
+
+    <p><small>Last Modified: <script>document.write(document.lastModified);</script></small></p>
+</body>
+</html>
