@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Navigation</title>
+</head>
+<body>
+    <h3>Navigation</h3>
+    <ul>
+        <li><a href="right_home.html" target="content">Team Home</a></li>
+        <li><a href="story10.html" target="content">Company History</a></li>
+        <li><a href="ManagementTeamPage.html" target="content">Management Team</a></li>
+        <li><a href="Andrew.html" target="content">Products</a></li>
+        <li><a href="Services.html" target="content">Services</a></li>
+        <li><a href="Testimonials.html" target="content">Testimonials</a></li>
+    </ul>
+
+    <p><small>Last Modified: <script>document.write(document.lastModified);</script></small></p>
+</body>
+</html>
